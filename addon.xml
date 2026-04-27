@@ -22,7 +22,7 @@
         <source></source>
         <assets>
             <icon>icon.png</icon>
-            <fanart>icon.png</fanart>
+            <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
 </addon>
