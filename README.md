@@ -63,6 +63,10 @@ If you encounter issues where the stream times out or fails to load:
 * **Verify FFmpeg**: Ensure `ffmpeg` is properly installed and accessible from the command line.
 * **Verify Playwright**: Ensure Playwright and its Chromium binaries are installed correctly in the same Python environment that Kodi utilizes.
 
+## Disclaimer
+
+This addon is for educational purposes only. It uses an automated proxy to capture and relay streams for personal use, and does not host or distribute any copyrighted content. The developer does not condone the use of this addon for accessing copyrighted content without permission. Users are responsible for complying with all applicable laws and regulations.
+
 ---
 <div align="center">
   <i>Developed by Miles Hilliard</i> | <a href="https://www.mileshilliard.com">Website</a>
