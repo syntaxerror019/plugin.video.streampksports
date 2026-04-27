@@ -9,6 +9,12 @@
     <img src="https://img.shields.io/badge/Python-3.x-yellow.svg?style=flat-square&logo=python" alt="Python 3" />
     <img src="https://img.shields.io/badge/License-GPL--3.0-green.svg?style=flat-square" alt="License" />
   </p>
+
+  <div>
+    <img src="screenshots/kodi1.png" alt="Screenshot 1" width="32%" />
+    <img src="screenshots/kodi2.png" alt="Screenshot 2" width="32%" />
+    <img src="screenshots/kodi3.png" alt="Screenshot 3" width="32%" />
+  </div>
 </div>
 
 ---

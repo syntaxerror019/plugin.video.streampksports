@@ -128,7 +128,7 @@ def multiplexed_stream():
 def run_browser(url):
     with sync_playwright() as p:
         browser = p.chromium.launch(
-            headless=False,
+            headless=True,
             channel="chrome",
             args=["--no-sandbox", "--disable-setuid-sandbox", "--disable-web-security"]
         )
